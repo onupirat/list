@@ -15,3 +15,375 @@ https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
 http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR Targu Mures RO" tvg-name="TVR Targu Mures RO" 
+#EXTINF:-1  tvg-id="pervy" group-title="Эфирные" tvg-logo="N/A",Первый канал HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="pervy" group-title="Федеральные" tvg-logo="N/A",Первый канал HD [Fix]
+https://s40403.cdn.ngenix.net/dash-live11/streams/1tv/1tvdash.mpd
+#EXTINF:-1  tvg-id="pervy" group-title="Эфирные" tvg-logo="N/A",Первый канал
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="rossia1" group-title="Эфирные" tvg-logo="N/A",Россия 1 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_RUSSIA1HD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="rossia1" group-title="Эфирные" tvg-logo="N/A",Россия 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="ntv" group-title="Эфирные" tvg-logo="N/A",НТВ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="ntv" group-title="Эфирные" tvg-logo="N/A",НТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="mir-premium" group-title="Эфирные" tvg-logo="N/A",Мир Premium HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="mir" group-title="Эфирные" tvg-logo="N/A",Мир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="5kanal-ru" group-title="Эфирные" tvg-logo="N/A",Пятый канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="rentv" group-title="Эфирные" tvg-logo="N/A",РЕН ТВ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="rentv" group-title="Эфирные" tvg-logo="N/A",РЕН ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_HLS/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="pervy-vegetariansky" group-title="Кулинарные" tvg-logo="N/A",Первый Вегетарианский HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERVYJVEGETARIANSKIJHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="eda-hd" group-title="Кулинарные" tvg-logo="N/A",Еда Премиум HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EDAHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="kuxnia-tv" group-title="Кулинарные" tvg-logo="N/A",Кухня ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KUHNYA/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="eda" group-title="Кулинарные" tvg-logo="N/A",Еда
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EDA/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="food-network" group-title="Кулинарные" tvg-logo="N/A",Food Network HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="euronews" group-title="Информационные" tvg-logo="N/A",Euronews
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EURONEWS/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="rbk" group-title="Информационные" tvg-logo="N/A",РБК-ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRC/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="2na2" group-title="Развлекательные" tvg-logo="N/A",2x2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="anekdottv" group-title="Развлекательные" tvg-logo="N/A",Анекдот ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="zal-suda" group-title="Развлекательные" tvg-logo="http://immo.date/logo/zal-suda.png",Зал суда HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="kaleydoskop-tv" group-title="Развлекательные" tvg-logo="N/A",Калейдоскоп ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KALEJDOSKOPTV/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="kvn-tv" group-title="Развлекательные" tvg-logo="N/A",КВН ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KVN/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="piatnica" group-title="Развлекательные" tvg-logo="N/A",Пятница!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="sarafan" group-title="Развлекательные" tvg-logo="N/A",Сарафан
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_SARAFAN/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="sts" group-title="Развлекательные" tvg-logo="N/A",СТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="super" group-title="Развлекательные" tvg-logo="N/A",Супер
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="tv3-ru" group-title="Развлекательные" tvg-logo="N/A",ТВ 3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="teatr" group-title="Развлекательные" tvg-logo="N/A",Театр HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_THEATERHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="tnomer" group-title="Развлекательные" tvg-logo="N/A",ТНОМЕР
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNOMER/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="tnt" group-title="Развлекательные" tvg-logo="N/A",ТНТ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNTHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="tnt" group-title="Развлекательные" tvg-logo="N/A",ТНТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="tnt4" group-title="Развлекательные" tvg-logo="N/A",ТНТ4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="mir-uvlecheniy" group-title="Познавательные" tvg-logo="N/A",#КтоКуда
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KTOKUDA/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="animal-planet" group-title="Познавательные" tvg-logo="N/A",Animal Planet HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_ANIMALPLANETHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="animal-planet" group-title="Познавательные" tvg-logo="N/A",Animal Planet
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ANIMALPLANET/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="discovery-channel" group-title="Познавательные" tvg-logo="N/A",Discovery Channel HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="discovery-channel" group-title="Познавательные" tvg-logo="N/A",Discovery Channel
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISCOVERYCHANNEL/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="discovery-science" group-title="Познавательные" tvg-logo="N/A",Discovery Science HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="dtx" group-title="Познавательные" tvg-logo="N/A",DTX HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DTXHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="history-ru" group-title="Познавательные" tvg-logo="N/A",History HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDHISTORY/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="h2" group-title="Познавательные" tvg-logo="N/A",HISTORY2 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_H2HD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="id-xtra-ru" group-title="Познавательные" tvg-logo="N/A",Investigation Discovery HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_IDXTRAHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="id-xtra-ru" group-title="Познавательные" tvg-logo="N/A",Investigation Discovery
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="love-nature-4k" group-title="Познавательные" tvg-logo="N/A",Love Nature 4K
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="museum-hd" group-title="Познавательные" tvg-logo="N/A",Museum HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUSEUMHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="nat-geo-wild" group-title="Познавательные" tvg-logo="N/A",Nat Geo Wild HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_NATGEOWILDHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="nat-geo-wild" group-title="Познавательные" tvg-logo="N/A",Nat Geo Wild
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NATGEOWILD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="national-geographic" group-title="Познавательные" tvg-logo="N/A",National Geographic HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_NGCHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="national-geographic" group-title="Познавательные" tvg-logo="N/A",National Geographic
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NATGEO/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="ocean-tv" group-title="Познавательные" tvg-logo="N/A",Ocean-TV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OCEANTV/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="rtg-hd" group-title="Познавательные" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/nclogo1508922855351.png",RTG HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RTGHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="rtd-hd" group-title="Познавательные" tvg-logo="N/A",RTД HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RTDHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="travel-channel" group-title="Познавательные" tvg-logo="N/A",Travel Channel HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TRAVELCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="travel-adventure" group-title="Познавательные" tvg-logo="N/A",Travel+Adventure HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="viasat-explore" group-title="Познавательные" tvg-logo="N/A",Viasat Explore HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLOREHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="viasat-history" group-title="Познавательные" tvg-logo="N/A",Viasat History HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATHISTORYHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="viasat-nature-cee" group-title="Познавательные" tvg-logo="N/A",Viasat Nature HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATNATUREHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="viasat-nature-history-hd" group-title="Познавательные" tvg-logo="N/A",Viasat Nature HD/History HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="zoopark" group-title="Познавательные" tvg-logo="N/A",ZooПарк
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZOOPARK/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="arsenaltv" group-title="Познавательные" tvg-logo="N/A",Арсенал HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ARSENALHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="bolshaya-azia" group-title="Познавательные" tvg-logo="N/A",Большая Азия HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BIGASIAHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="vremia" group-title="Познавательные" tvg-logo="N/A",Время: далекое и близкое
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VREMYADIB/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="glazami-turista" group-title="Познавательные" tvg-logo="N/A",Глазами туриста HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTAHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="doktor" group-title="Познавательные" tvg-logo="N/A",Доктор
+https://zabava-htlive.cdn.ngenix.net/hls/CH_24DOC/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="zhivaya-planeta" group-title="Познавательные" tvg-logo="N/A",Живая Планета
+https://zabava-htlive.cdn.ngenix.net/hls/CH_JIVAYAPLANETA/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="zhivaya-priroda" group-title="Познавательные" tvg-logo="N/A",Живая природа HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZHIVAYAPRIRODAHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="zhivi" group-title="Познавательные" tvg-logo="N/A",Живи! HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZHIVIHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="zagorodnaya-zhizn" group-title="Познавательные" tvg-logo="N/A",Загородная жизнь HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZAGORODNAYAZHIZNHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="zdorovoe-tv" group-title="Познавательные" tvg-logo="N/A",Здоровое ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZDOROVOETV/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="istoria" group-title="Познавательные" tvg-logo="N/A",История
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ISTORIYA/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="kluch" group-title="Познавательные" tvg-logo="N/A",Ключ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KEY/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="morskoy" group-title="Познавательные" tvg-logo="N/A",Морской HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MORSKOYHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="moya-planeta" group-title="Познавательные" tvg-logo="N/A",Моя Планета HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_IQHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="moya-planeta" group-title="Познавательные" tvg-logo="N/A",Моя Планета
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MYPLANET/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="nauka-20" group-title="Познавательные" tvg-logo="N/A",Наука
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NAUKA20/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="nasha-sibir-4k" group-title="Познавательные" tvg-logo="N/A",Наша Сибирь 4K
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="nostalgia" group-title="Познавательные" tvg-logo="N/A",Ностальгия
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NOSTALGIYA/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="poexali" group-title="Познавательные" tvg-logo="N/A",Поехали! HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_POEHALIHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="ratnik" group-title="Познавательные" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1604054297280.png",Ратник HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RATNIKHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="kultura" group-title="Познавательные" tvg-logo="N/A",Россия К
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="sovsek" group-title="Познавательные" tvg-logo="http://immo.date/logo/sovsekretno.png",Совершенно секретно
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SOVSEKRETNO/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="tayna" group-title="Познавательные" tvg-logo="N/A",ТАЙНА
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TAINA/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="tayny-galaktiki" group-title="Познавательные" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1555312225169.png",Тайны Галактики HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TAINYGALAKTIKIHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="usadba" group-title="Познавательные" tvg-logo="N/A",Усадьба ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_USADBA/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="centralnoye-tv" group-title="Познавательные" tvg-logo="N/A",Центральное телевидение
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CENTRALTV/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="cartoon-network" group-title="Детские" tvg-logo="N/A",Cartoon Network HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CARTOON_NETWORKSHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="nickelodeon-hd" group-title="Детские" tvg-logo="N/A",Nickelodeon HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="da-vinci" group-title="Образовательные" tvg-logo="N/A",Da Vinci
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DAVINCILEARNING/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="english-club-tv" group-title="Образовательные" tvg-logo="N/A",English Club HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ENGLISHCLUBHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="prosveschenie" group-title="Образовательные" tvg-logo="N/A",Просвещение
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PROSVESCHENIE/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="eurosport1" group-title="Спортивные" tvg-logo="N/A",Eurosport 1 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="eurosport1" group-title="Спортивные" tvg-logo="N/A",Eurosport 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="eurosport2" group-title="Спортивные" tvg-logo="N/A",Eurosport 2 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT2HD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="eurosport2" group-title="Спортивные" tvg-logo="N/A",Eurosport 2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="amedia1" group-title="Кино и сериалы" tvg-logo="N/A",A1 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="amedia2" group-title="Кино и сериалы" tvg-logo="N/A",A2 Про Любовь HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_A2PROLYBOV/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="amedia2" group-title="Кино и сериалы" tvg-logo="N/A",A2 Про Любовь
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIA2/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="amedia-hit" group-title="Кино и сериалы" tvg-logo="N/A",Amedia Hit HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="amedia-hit" group-title="Кино и сериалы" tvg-logo="N/A",Amedia Hit
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITSD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="amedia-premium" group-title="Кино и сериалы" tvg-logo="N/A",Amedia Premium HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="amedia-premium" group-title="Кино и сериалы" tvg-logo="N/A",Amedia Premium
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAPREMIUMSD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="bollywood-hd" group-title="Кино и сериалы" tvg-logo="N/A",Bollywood HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BOLLYWOODHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="bolt-ru" group-title="Кино и сериалы" tvg-logo="N/A",BOLT HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="cinema-ru" group-title="Кино и сериалы" tvg-logo="N/A",Cinema
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PARKRAZVLECHENIJ/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="fanhd" group-title="Кино и сериалы" tvg-logo="N/A",FAN HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FANHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="fox" group-title="Кино и сериалы" tvg-logo="N/A",FOX HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="fox" group-title="Кино и сериалы" tvg-logo="N/A",FOX
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FOX/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="foxlife" group-title="Кино и сериалы" tvg-logo="N/A",Fox Life HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="paramount-channel" group-title="Кино и сериалы" tvg-logo="N/A",Paramount Channel HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="paramount-channel" group-title="Кино и сериалы" tvg-logo="N/A",Paramount Channel
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PARAMOUNTCHANNEL/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="paramount-comedy" group-title="Кино и сериалы" tvg-logo="N/A",Paramount Comedy HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="shot-tv" group-title="Кино и сериалы" tvg-logo="N/A",SHOT TV HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOTTVHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="sony-tv" group-title="Кино и сериалы" tvg-logo="N/A",Sony Channel HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="sony-tv" group-title="Кино и сериалы" tvg-logo="N/A",Sony Channel
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SET/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="sony-scifi" group-title="Кино и сериалы" tvg-logo="N/A",Sony Sci-Fi
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SONYSCIFI/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="sony-turbo" group-title="Кино и сериалы" tvg-logo="N/A",Sony Turbo
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SONYTURBO/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="spike" group-title="Кино и сериалы" tvg-logo="N/A",Spike HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPIKEHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="star-cinema" group-title="Кино и сериалы" tvg-logo="N/A",Star Cinema HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STARCINEMAHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="star-family" group-title="Кино и сериалы" tvg-logo="N/A",Star Family HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STARFAMILYHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="trashtv" group-title="Кино и сериалы" tvg-logo="N/A",Trash HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TRASHHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="tvxxi" group-title="Кино и сериалы" tvg-logo="N/A",TV XXI Век
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="tv1000-action" group-title="Кино и сериалы" tvg-logo="N/A",TV1000 Action HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="tv1000" group-title="Кино и сериалы" tvg-logo="N/A",TV1000 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы" tvg-logo="N/A",TV1000 Русское кино HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="ultra-hd-cinema" group-title="Кино и сериалы" tvg-logo="N/A",Ultra HD Cinema
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="vip-comedy" group-title="Кино и сериалы" tvg-logo="N/A",ViP Comedy HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="vip-megahit" group-title="Кино и сериалы" tvg-logo="N/A",ViP Megahit HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="vip-premiere" group-title="Кино и сериалы" tvg-logo="N/A",ViP Premiere HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="vip-serial" group-title="Кино и сериалы" tvg-logo="N/A",ViP Serial HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="zee-tv" group-title="Кино и сериалы" tvg-logo="N/A",Zee TV HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETVHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="blokbaster-hd" group-title="Кино и сериалы" tvg-logo="N/A",Блокбастер HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BLOCKBUSTERHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="domkino-premium" group-title="Кино и сериалы" tvg-logo="N/A",Дом Кино Премиум HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINOPREMIUMHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="domkino" group-title="Кино и сериалы" tvg-logo="N/A",Дом Кино
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="dorama" group-title="Кино и сериалы" tvg-logo="N/A",Дорама
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DORAMA/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="illuzion-plus" group-title="Кино и сериалы" tvg-logo="N/A",Иллюзион +
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="kamedi" group-title="Кино и сериалы" tvg-logo="N/A",Камеди HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="kino-ultra-hd" group-title="Кино и сериалы" tvg-logo="N/A",Кино UHD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="kino-tv" group-title="Кино и сериалы" tvg-logo="N/A",Кино ТВ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="kinokomedia" group-title="Кино и сериалы" tvg-logo="N/A",Кинокомедия
+https://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYTV/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="kinomiks" group-title="Кино и сериалы" tvg-logo="N/A",Киномикс
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINO/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="kinopokaz-hd" group-title="Кино и сериалы" tvg-logo="N/A",Кинопоказ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPOKAZHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="kinopremiera-hd" group-title="Кино и сериалы" tvg-logo="N/A",Кинопремьера HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPREMIEREHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="kinosvidanie" group-title="Кино и сериалы" tvg-logo="N/A",Киносвидание HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINODATEHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="kinosemiya" group-title="Кино и сериалы" tvg-logo="N/A",Киносемья HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOFAMILYHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="kinouzhas" group-title="Кино и сериалы" tvg-logo="N/A",Киноужас HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUZHASHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="kinoxit" group-title="Кино и сериалы" tvg-logo="N/A",Кинохит HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOHITHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="russkaya-komedia" group-title="Кино и сериалы" tvg-logo="N/A",Комедия
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="lubimoe-kino" group-title="Кино и сериалы" tvg-logo="N/A",Любимое Кино
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="mir-seriala" group-title="Кино и сериалы" tvg-logo="N/A",Мир сериала
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="mosfilm" group-title="Кино и сериалы" tvg-logo="N/A",Мосфильм HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSFILMHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="mosfilm" group-title="Кино и сериалы" tvg-logo="N/A",Мосфильм
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSFILM/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="muzhskoe-kino" group-title="Кино и сериалы" tvg-logo="N/A",Мужское кино
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="nst" group-title="Кино и сериалы" tvg-logo="N/A",Настоящее страшное ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NSTV/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="nash-kinopokaz-hd" group-title="Кино и сериалы" tvg-logo="N/A",Наш кинопоказ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHKINOPOKAZHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="nashe-muzhskoe-hd" group-title="Кино и сериалы" tvg-logo="N/A",Наше Мужское HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHEMUZHSKOEHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="nashe-novoe-kino" group-title="Кино и сериалы" tvg-logo="N/A",Наше новое кино
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="okino" group-title="Кино и сериалы" tvg-logo="N/A",О!Кино
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="pobeda" group-title="Кино и сериалы" tvg-logo="N/A",Победа HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_POBEDAHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="pro-lyubov" group-title="Кино и сериалы" tvg-logo="N/A",Про любовь HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PROLUBOVHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="retro-tv" group-title="Кино и сериалы" tvg-logo="N/A",Ретро
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RETROTV/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="rodnoe-kino" group-title="Кино и сериалы" tvg-logo="N/A",Родное кино
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="russky-bestseller" group-title="Кино и сериалы" tvg-logo="N/A",Русский бестселлер
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANBESTSELLER/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="russky-detektiv" group-title="Кино и сериалы" tvg-logo="N/A",Русский детектив
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="russky-illuzion" group-title="Кино и сериалы" tvg-logo="N/A",Русский Иллюзион
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="russky-roman" group-title="Кино и сериалы" tvg-logo="N/A",Русский роман HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSKIYROMANHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="serial-ultrahd" group-title="Кино и сериалы" tvg-logo="N/A",Сериал UHD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="strashnoe-hd" group-title="Кино и сериалы" tvg-logo="N/A",Страшное HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_STRASHNOEHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="feniks-plus-kino" group-title="Кино и сериалы" tvg-logo="N/A",Феникс+ Кино
+https://zabava-htlive.cdn.ngenix.net/hls/CH_GENIKSPLUSKINO/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="khit-hd" group-title="Кино и сериалы" tvg-logo="N/A",Хит HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_HITHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="hgtv" group-title="Женские" tvg-logo="N/A",HGTV HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_HGTVHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="tlc" group-title="Женские" tvg-logo="N/A",TLC HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_TLCHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="tlc" group-title="Женские" tvg-logo="N/A",TLC
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TLC/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="world-fashion-channel" group-title="Женские" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1541767385222.png",World Fashion Channel HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_WFCHD/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="domashny" group-title="Женские" tvg-logo="N/A",Домашний
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="mama" group-title="Женские" tvg-logo="N/A",МАМА
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATIDITYA/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="yu" group-title="Женские" tvg-logo="N/A",Ю
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="comedy-radio" group-title="Радио" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1601324755241.png",Comedy Radio
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOCOMEDY/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="no_epg_music" group-title="Радио" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1601324511441.png",Relax FM
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIORELAXFM/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="avtoradio" group-title="Радио" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1601324309638.png",Авторадио
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOAUTORADIO/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="no_epg_music" group-title="Радио" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1605520530316.png",Радио Disney
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIODISNEY/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="no_epg_music" group-title="Радио" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1601324622005.png",Детское радио
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIODETSKOE/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="radio-energy" group-title="Радио" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1601324278374.png",Радио Energy
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOENERGY/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="radio-romantika" group-title="Радио" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1601324339855.png",Радио Romantika
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOROMANTIKA/variant.m3u8?version=2
+#EXTINF:-1  tvg-id="yumor-fm" group-title="Радио" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1601324382563.png",Юмор FM
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOYUMORFM/variant.m3u8?version=2
