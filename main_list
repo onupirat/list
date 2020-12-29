@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",Jurnal TV
+https://live4.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.m3u8?token=3880ce3abc63161c170a9598983000d650a2c829
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",Bălţi TV
 http://77.89.199.174:8000/play/1024/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ZiwyCkA.png" tvg-country="MD" tvg-url="" group-title="",Canal Regional
