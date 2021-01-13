@@ -57,9 +57,6 @@ http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-#EXTINF:-1,Россия 1 HD
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Discovery
 http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
 #EXTINF:-1,Discovery Science
@@ -68,12 +65,8 @@ http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
 #EXTINF:-1,Net Geo Wild
 http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
-#EXTINF:-1,National Geographic Wild HD
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1,Animal Planet
 http://51.195.44.53:8081/tv/animal-planet/chunks.m3u8
-#EXTINF:-1,Animal Planet HD
-https://s4.idata.uz/animal/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Русский Роман
 http://147.135.210.90:8081/tv/rus-roman-6r/playlist.m3u8
 #EXTINF:-1,Наш Кинороман HD
