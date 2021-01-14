@@ -65,6 +65,8 @@ http://ntv.ru/air/ntvlaw
 http://ntv.ru/air/ntvseries
 #EXTINF:-1,НТВ Стиль
 http://ntv.ru/air/ntvstyle
+#EXTINF:-1,Евроновости
+http://ru.euronews.com/live
 #EXTINF:-1,ОТР
 https://otr-online.ru
 #EXTINF:-1,Discovery
