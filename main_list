@@ -77,5 +77,9 @@ https://sc.id-tv.kz/hdl_34_35.m3u8
 https://sc.id-tv.kz/hdl_38_39.m3u8
 #EXTINF:-1,Эврика
 https://www.voka.tv/039cc6c8-7cba-4965-ae24-08c8854b46cf
-#EXTINF:-1,TNT
-http://api.peers.tv/timeshift/tnt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTA2OTMwOTgsImlhdCI6MTYxMDYwNjY5OCwiY2lkIjo2LCJ1aWQiOjQwNDgwNzExOSwicmVnIjpmYWxzZSwiaXAiOjc1ODEzMzkwMH0.rltNw4hCtNfn6OVtKcTmLHPEvVCwMT-eXoLnQMxIsfc&offset=1
+#EXTINF:-1,Kuhnea
+http://ok-tv.org/channels/101-kukhnya-tv.html
+#EXTINF:-1,Eda
+http://ok-tv.org/channels/130-eda-tv.html
+#EXTINF:-1,Kuhnea bluepoint
+http://bluepoint/2364?archive=true
