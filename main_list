@@ -57,6 +57,16 @@ http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,НТВ
+http://ntv.ru/air
+#EXTINF:-1,НТВ Право
+http://ntv.ru/air/ntvlaw
+#EXTINF:-1,НТВ Сериал
+http://ntv.ru/air/ntvseries
+#EXTINF:-1,НТВ Стиль
+http://ntv.ru/air/ntvstyle
+#EXTINF:-1,ОТР
+https://otr-online.ru
 #EXTINF:-1,Discovery
 http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
 #EXTINF:-1,Discovery Science
