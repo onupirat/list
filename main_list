@@ -75,11 +75,4 @@ http://ott.watch/stream/IFBYIR5OA7/213.m3u8
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:-1,HDL HD
 https://sc.id-tv.kz/hdl_38_39.m3u8
-#EXTINF:-1,Эврика
-https://www.voka.tv/039cc6c8-7cba-4965-ae24-08c8854b46cf
-#EXTINF:-1,Kuhnea
-http://ok-tv.org/channels/101-kukhnya-tv.html
-#EXTINF:-1,Eda
-http://ok-tv.org/channels/130-eda-tv.html
-#EXTINF:-1,Kuhnea bluepoint
-http://bluepoint/2364?archive=true
+
