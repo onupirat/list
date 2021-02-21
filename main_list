@@ -53,20 +53,39 @@ https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="",Vocea Basarabiei TV
 #EXTGRP:Moldova
 http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
+#EXTINF:-1,Первый
+http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
+#EXTINF:-1,Пятница
+http://iptv.ktkru.ru:8016/index.m3u8
+
+#EXTINF:-1,Россия 1
+http://radio-live-mg.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,Россия 24
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1,Россия РТР
+http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Мир ТВ
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,СТС International
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1,ТНТ
+https://edge04.beetv.kz/btv/SWM/TNT/TNT_576p_2000kbps.m3u8
+#EXTINF:-1,ТНТ 4
+https://edge04.beetv.kz/btv/SWM/TNT4/TNT4_576p_2000kbps.m3u8
+#EXTINF:-1,RT Документальный HD
+https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1,НТВ
-http://ntv.ru/air
+http://185.78.112.46:8077/ntv_fed/index.m3u8
 #EXTINF:-1,НТВ Право
-http://ntv.ru/air/ntvlaw
+http://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair13.smil/chunklist_b1628000.m3u8?md5=0YbU8FO9TLhJWNIW1zAzhQ&e=1614479976&hls_proxy_host=pub5.rtmp.s01.l.ntv
 #EXTINF:-1,НТВ Сериал
 http://ntv.ru/air/ntvseries
 #EXTINF:-1,НТВ Стиль
 http://ntv.ru/air/ntvstyle
 #EXTINF:-1,Евроновости
-http://ru.euronews.com/live
+http://euronews-ru-p2-cdn.hexaglobe.net/091d28fc755f2df1d7725fdef384e0a2/6031c824/euronews/euronews-euronews-website-web-responsive-2/ewnsabrru_rus.smil/ewnsabrru_rus_720p33.m3u8
 #EXTINF:-1,ОТР
 https://otr-online.ru
 #EXTINF:-1,Discovery
@@ -84,7 +103,5 @@ http://147.135.210.90:8081/tv/rus-roman-6r/playlist.m3u8
 #EXTINF:-1,Наш Кинороман HD
 http://ott.watch/stream/IFBYIR5OA7/213.m3u8
 #EXTINF:-1,HDL
-https://sc.id-tv.kz/hdl_34_35.m3u8
-#EXTINF:-1,HDL HD
 https://sc.id-tv.kz/hdl_38_39.m3u8
 
