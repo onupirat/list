@@ -50,44 +50,41 @@ http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="http://tvrmoldova.md/img/tvr-moldova-oriz-mic.png" tvg-country="MD" tvg-url="",TVR Moldova HD
 #EXTGRP:Moldova
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="",Vocea Basarabiei TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="",Vocea Basarabiei
 #EXTGRP:Moldova
 http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 #EXTINF:-1,Первый
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
 #EXTINF:-1,Пятница
 http://iptv.ktkru.ru:8016/index.m3u8
-
 #EXTINF:-1,Россия 1
 http://radio-live-mg.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Россия 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1,Россия РТР
 http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Мир ТВ
+#EXTINF:-1,Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1,СТС International
 https://sc.id-tv.kz/STS_38_39.m3u8
-#EXTINF:-1,ТНТ
+#EXTINF:-1,ТНТ International
 https://edge04.beetv.kz/btv/SWM/TNT/TNT_576p_2000kbps.m3u8
-#EXTINF:-1,ТНТ 4
+#EXTINF:-1,ТНТ 4 International
 https://edge04.beetv.kz/btv/SWM/TNT4/TNT4_576p_2000kbps.m3u8
-#EXTINF:-1,RT Документальный HD
+#EXTINF:-1,RT Документальный
 https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1,НТВ
 http://185.78.112.46:8077/ntv_fed/index.m3u8
 #EXTINF:-1,НТВ Право
 http://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair13.smil/chunklist_b1628000.m3u8?md5=0YbU8FO9TLhJWNIW1zAzhQ&e=1614479976&hls_proxy_host=pub5.rtmp.s01.l.ntv
 #EXTINF:-1,НТВ Сериал
-http://ntv.ru/air/ntvseries
+http://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair11.smil/chunklist_b1628000.m3u8?md5=bj2p17gIXSRZ6rf-JbH-3Q&e=1614480902&hls_proxy_host=pub5.rtmp.s01.l.ntv
 #EXTINF:-1,НТВ Стиль
-http://ntv.ru/air/ntvstyle
+http://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair12.smil/chunklist_b1628000.m3u8?md5=MzMcLNZFn4J3ZkjXft0g5Q&e=1614480923&hls_proxy_host=pub5.rtmp.s01.l.ntv
 #EXTINF:-1,Евроновости
 http://euronews-ru-p2-cdn.hexaglobe.net/091d28fc755f2df1d7725fdef384e0a2/6031c824/euronews/euronews-euronews-website-web-responsive-2/ewnsabrru_rus.smil/ewnsabrru_rus_720p33.m3u8
-#EXTINF:-1,ОТР
-https://otr-online.ru
 #EXTINF:-1,Discovery
 http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
 #EXTINF:-1,Discovery Science
