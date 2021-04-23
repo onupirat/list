@@ -2,7 +2,7 @@
 #EXTINF:-1,TV8 Moldova
 #EXTGRP:Moldova
 http://212.0.215.115/TV8HD/playlist.m3u8
-#EXTINF:-1,Jurnal TV
+#EXTINF:-1, logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Jurnalborneotv_logo.png", Jurnal TV 
 #EXTGRP:Moldova
 http://212.0.215.115/JurnalTVHD/mpegts
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Jurnalborneotv_logo.png" tvg-id="jurnaltv" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/57/f6/84/57f684e7-799b-1f9f-d957-f981b72564ba/source/512x512bb.jpg" channelId="1339" group-title="Молдова",Jurnal TV (Backup)
@@ -59,6 +59,10 @@ http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",РЕН ТВ
 http://mhd.iptv2022.com/p/GuP-PQltSp9h5nXEiANUNA,1619182241/streaming/rentvott/324/variable.m3u8
+#EXTINF:-1,НТВ
+http://185.78.112.46:8077/ntv_fed/index.m3u8
+#EXTINF:-1 tvg-id="hlsproxy-212" group-title="Кино/Каналы",НТВ Хит
+http://91.192.168.251:8401
 #EXTINF:-1,Россия 1
 http://radio-live-mg.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Россия 24
@@ -93,8 +97,6 @@ http://93.189.224.118:9030/peretz?utcstart=943082199974&version=2
 http://mhd.iptv2022.com/p/lTzqyQ2_mfH6RM_SEvuB3w,1619182241/streaming/pyatnicaott/324/variable.m3u8
 #EXTINF:-1,RT Документальный
 https://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1,НТВ
-http://185.78.112.46:8077/ntv_fed/index.m3u8
 #EXTINF:-1,Discovery
 http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
 #EXTINF:-1,Discovery Science
@@ -144,26 +146,12 @@ http://212.79.122.24:7124/a2
 https://edge04.beetv.kz/btv/SWM/A2/A2_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-31" tvg-logo="http://epg.it999.ru/img/1372.png" group-title="Кино/Каналы",AMEDIA Premium HD
 http://212.79.122.24:7126/amedia_premium
-#EXTINF:-1 tvg-id="hlsproxy-53434" group-title="Кино/Каналы",Kinoteatr
-https://s1.idata.uz/stch_temp12/tracks-v1a1/rewind-7200.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-174" group-title="Кино/Каналы",Megahit HD
 http://195.189.105.158:9050/133/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="hlsproxy-159" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/69315/2a0000015a044eb6e082fcd7da454beed24c/orig" group-title="Кино/Каналы",Sony Channel
-https://edge04.beetv.kz/btv/SWM/Sony/Sony_576p_2000kbps.m3u8
-#EXTINF:-1 tvg-id="hlsproxy-28" tvg-logo="https://iptvx.one/icn/sony-scifi.png" group-title="Кино/Каналы",Sony Sci-Fi
-http://212.79.122.24:7173/sony_sci-Fi
-#EXTINF:-1 tvg-id="hlsproxy-163" tvg-logo="https://iptvx.one/icn/sony-turbo.png" group-title="Кино/Каналы",Sony Turbo
-http://212.79.122.24:7009/sony_turbo
-#EXTINF:-1 tvg-id="hlsproxy-663" tvg-logo="http://epg.it999.ru/img/2145.png" group-title="Кино/Каналы",Star Cinema HD
-http://95.67.12.94:9001
-#EXTINF:-1 tvg-id="hlsproxy-100062" tvg-logo="https://viasat.ua//images/channels/S_FAMILY_logo_200_200.png" group-title="Кино/Каналы",Star Family HD
-http://95.67.12.94:9002
 #EXTINF:-1 tvg-id="hlsproxy-309" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/27485/2a0000015bb476e5ba92689809a957632913/orig" group-title="Кино/Каналы",Киносерия HD
 http://31.134.132.245:8080/kinoseriya_hd/tracks-v1a1/mono.m3u8?media=943082199974
 #EXTINF:-1 tvg-id="hlsproxy-385" tvg-logo="https://tvoetv.online/img/ch_icons/nashe_lyubimoe_kino.png" group-title="Кино/Каналы",Наше любимое кино
 http://212.79.122.24:7071/epoxa
-#EXTINF:-1 tvg-id="hlsproxy-212" group-title="Кино/Каналы",НТВ Хит
-http://91.192.168.251:8401
 #EXTINF:-1 tvg-id="Premiere HD 1" group-title="Premiere/Group",Premiere HD
 http://195.154.242.229:3000/telegram/premiere_group_chat/19550
 #EXTINF:-1 tvg-id="Premium HD" group-title="Premiere/Group",Premium HD
@@ -184,8 +172,6 @@ http://195.154.242.229:3000/telegram/premiere_group_chat/64127
 http://195.154.242.229:3000/telegram/premiere_group_chat/47342
 #EXTINF:-1 tvg-id="hlsproxy-72" tvg-logo="https://iptvx.one/icn/eurosport1.png" group-title="Спорт/Каналы",Eurosport 1
 http://edge04.beetv.kz/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Детские",Big Buck Bunny
-https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Детские",CTC Kids
 http://193.33.240.8:80/sts_kids/index.m3u8
 #EXTINF:-1 tvg-id="disney-pl4" group-title="Детские",Канал Disney +4
