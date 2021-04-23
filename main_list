@@ -71,6 +71,10 @@ http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Новости",Евроновости
 http://mhd.iptv2022.com/p/PdgMDSbNbDH7Qu30FssVew,1619182241/streaming/euronews/324/variable.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/icn/eda-hd.png" group-title="Познавательные",Еда HD
+http://94.230.240.12:8080/edahd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="hlsproxy-260" tvg-logo="https://iptvx.one/icn/zdorovoe-tv.png" group-title="Познавательные",Здоровое ТВ
+http://37.17.12.119:8909/play/a00c
 #EXTINF:-1,Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир 24
@@ -126,10 +130,6 @@ http://94.230.240.12:8080/rtg/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Zоопарк
 http://195.49.206.244:90/Zoopark/index.m3u8
 http://195.49.206.244:90/domashnie_zhivotnye/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/icn/eda-hd.png" group-title="Познавательные",Еда HD
-http://94.230.240.12:8080/edahd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="hlsproxy-260" tvg-logo="https://iptvx.one/icn/zdorovoe-tv.png" group-title="Познавательные",Здоровое ТВ
-http://37.17.12.119:8909/play/a00c
 #EXTINF:-1 tvg-id="hlsproxy-311" tvg-logo="https://iptvx.one/icn/moya-planeta.png" group-title="Познавательные",Моя Планета
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-22" tvg-logo="https://tvoetv.online/img/ch_icons/tv_1000_world_kino.jpg" group-title="Кино/Каналы",TV 1000 World Kino
