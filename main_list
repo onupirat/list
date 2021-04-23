@@ -4,9 +4,9 @@
 http://212.0.215.115/TV8HD/playlist.m3u8
 #EXTINF:-1,Jurnal TV
 #EXTGRP:Moldova
+http://212.0.215.115/JurnalTVHD/mpegts
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Jurnalborneotv_logo.png" tvg-id="jurnaltv" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/57/f6/84/57f684e7-799b-1f9f-d957-f981b72564ba/source/512x512bb.jpg" channelId="1339" group-title="Молдова",Jurnal TV (Backup)
 http://185.161.218.2:80/JurnalTV/index.m3u8
-http://212.0.215.115/JurnalTVHD/mpegts
 #EXTINF:-1,Moldova 1
 #EXTGRP:Moldova
 http://212.0.209.209:1935/live/MoldovaUnu1/playlist.m3u8
