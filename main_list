@@ -95,14 +95,6 @@ http://mhd.iptv2022.com/p/lTzqyQ2_mfH6RM_SEvuB3w,1619182241/streaming/pyatnicaot
 https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1,НТВ
 http://185.78.112.46:8077/ntv_fed/index.m3u8
-#EXTINF:-1,НТВ Право
-http://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair13.smil/chunklist_b1628000.m3u8?md5=0YbU8FO9TLhJWNIW1zAzhQ&e=1614479976&hls_proxy_host=pub5.rtmp.s01.l.ntv
-#EXTINF:-1,НТВ Сериал
-http://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair11.smil/chunklist_b1628000.m3u8?md5=bj2p17gIXSRZ6rf-JbH-3Q&e=1614480902&hls_proxy_host=pub5.rtmp.s01.l.ntv
-#EXTINF:-1,НТВ Стиль
-http://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair12.smil/chunklist_b1628000.m3u8?md5=MzMcLNZFn4J3ZkjXft0g5Q&e=1614480923&hls_proxy_host=pub5.rtmp.s01.l.ntv
-#EXTINF:-1,Евроновости
-http://euronews-ru-p2-cdn.hexaglobe.net/091d28fc755f2df1d7725fdef384e0a2/6031c824/euronews/euronews-euronews-website-web-responsive-2/ewnsabrru_rus.smil/ewnsabrru_rus_720p33.m3u8
 #EXTINF:-1,Discovery
 http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
 #EXTINF:-1,Discovery Science
