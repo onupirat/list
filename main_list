@@ -155,3 +155,397 @@ http://195.154.242.229:3000/telegram/premiere_group_chat/47342
 http://193.33.240.8:80/sts_kids/index.m3u8
 #EXTINF:-1 tvg-id="disney-pl4" group-title="Детские",Канал Disney +4
 http://hlstv.brn.211.ru/239.211.211.24/stream.m3u8
+
+////////////////////////////////////////////////////
+#EXTM3U
+#EXTINF:-1 ,Первый Канал HD
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
+#EXTINF:-1 ,Россия 1 HD
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/Rossiya_1_HD.ism/playlist.mpd
+#EXTINF:-1 ,НТВ HD
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd
+#EXTINF:-1 ,ТНТ HD
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/TNT_HD.ism/playlist.mpd
+#EXTINF:-1 ,РЕН ТВ
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/Ren_SD.ism/playlist.mpd
+#EXTINF:-1 ,СТС
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/STS_SD.ism/playlist.mpd
+#EXTINF:-1 ,СТС love
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
+#EXTINF:-1 ,Пятница
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
+#EXTINF:-1 ,ТВ-3
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/TV_3_SD.ism/playlist.mpd
+#EXTINF:-1 ,Че!
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
+#EXTINF:-1 ,Домашний
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/Domashniy_SD.ism/playlist.mpd
+#EXTINF:-1 ,ТВ Центр
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/TV_Center_SD_159q.ism/playlist.mpd
+#EXTINF:-1 ,Пятый Канал
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd
+#EXTINF:-1 ,Звезда
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/Zvezda_SD_12q2.ism/playlist.mpd
+#EXTINF:-1 ,Россия 24
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/Rossiya_24_SD.ism/playlist.mpd
+#EXTINF:-1 ,РБК
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/RBK_SD.ism/playlist.mpd
+#EXTINF:-1 ,Мир HD
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/Mir_HD_542.ism/playlist.mpd
+#EXTINF:-1 ,Мир 24
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/MIR24_SD.ism/playlist.mpd
+#EXTINF:-1 ,360°
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/360_TV_SD.ism/playlist.mpd
+#EXTINF:-1 ,Euronews
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd
+#EXTINF:-1 ,Ностальгия
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/Nostalgiya_SD.ism/playlist.mpd
+#EXTINF:-1 ,Беларусь 24
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/Mir_Uvleceniy_SD.ism/playlist.mpd
+#EXTINF:-1 ,CBC Azerbaijan
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd
+#EXTINF:-1 ,8 канал
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/8_kanal_SD_951w.ism/playlist.mpd
+#EXTINF:-1 ,Ваш телемагазин
+#EXTGRP:Федеральные
+http://mfe.cliptv.az/dash/Rossiya_Kulturra_SD.ism/playlist.mpd
+#EXTINF:-1 ,Fox
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Fox_Russia_SD.ism/playlist.mpd
+#EXTINF:-1 ,Paramount Comedy
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd
+#EXTINF:-1 ,Sony Sci-Fi
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
+#EXTINF:-1 ,Sony Turbo
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd
+#EXTINF:-1 ,Amedia 1
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/A1_SD.ism/playlist.mpd
+#EXTINF:-1 ,Amedia 2
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Amedia_2_SD.ism/playlist.mpd
+#EXTINF:-1 ,Amedia Hit
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/A_Media_Hit_SD.ism/playlist.mpd
+#EXTINF:-1 ,Amedia Premium HD
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Amedia_Premium_HD.ism/playlist.mpd
+#EXTINF:-1 ,VIP Premiere HD
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/VIP_Premium_HD.ism/playlist.mpd
+#EXTINF:-1 ,VIP Megahit HD
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/VIP_Megahit_HD.ism/playlist.mpd
+#EXTINF:-1 ,VIP Comedy HD
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/VIP_Comedy_HD.ism/playlist.mpd
+#EXTINF:-1 ,TV1000
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd
+#EXTINF:-1 ,TV1000 Action
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/TV1000_Action_SD.ism/playlist.mpd
+#EXTINF:-1 ,TV1000 Русское кино
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/TV1000_Russkoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 ,Кинопремьера HD
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd
+#EXTINF:-1 ,Кинохит
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd
+#EXTINF:-1 ,Киномикс
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd
+#EXTINF:-1 ,Киносвидание
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Kinosvidaniye_SD.ism/playlist.mpd
+#EXTINF:-1 ,Киносемья
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Kinosemya_SD.ism/playlist.mpd
+#EXTINF:-1 ,Кинокомедия
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd
+#EXTINF:-1 ,Мужское кино
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Mujskoye_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 ,Киносерия
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Kinoseriya_SD.ism/playlist.mpd
+#EXTINF:-1 ,Наше Новое Кино
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Nashe_Novoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 ,Родное Кино
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Rodnoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 ,Дом Кино Премиум HD
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd
+#EXTINF:-1 ,Кино ТВ HD
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
+#EXTINF:-1 ,Hollywood HD
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/MGM_HD.ism/playlist.mpd
+#EXTINF:-1 ,Hollywood
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
+#EXTINF:-1 ,НСТ
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
+#EXTINF:-1 ,Cinema
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd
+#EXTINF:-1 ,Paramount Channel
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd
+#EXTINF:-1 ,TV XXI
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/TV_XXI_SD.ism/playlist.mpd
+#EXTINF:-1 ,Еврокино
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Evrokino_SD.ism/playlist.mpd
+#EXTINF:-1 ,Русский Роман
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd
+#EXTINF:-1 ,Русский Детектив
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
+#EXTINF:-1 ,Мир Сериала
+#EXTGRP:Фильмовые
+http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
+#EXTINF:-1 ,Индийское Кино
+#EXTGRP:Фильмовые
+http://mfe.cliptv.az/dash/Indiyskoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 ,National Geographic HD
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
+#EXTINF:-1 ,Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
+#EXTINF:-1 ,Animal Planet HD
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd
+#EXTINF:-1 ,TLC HD
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/TLC_HD.ism/playlist.mpd
+#EXTINF:-1 ,HD Life
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
+#EXTINF:-1 ,RTG HD
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/RTG_HD.ism/playlist.mpd
+#EXTINF:-1 ,Travel Channel HD
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/Travel_Channel_HD.ism/playlist.mpd
+#EXTINF:-1 ,Outdoor Channel HD
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/Outdoor_HD.ism/playlist.mpd
+#EXTINF:-1 ,History HD
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd
+#EXTINF:-1 ,Viasat History
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/Viasat_History_SD.ism/playlist.mpd
+#EXTINF:-1 ,Viasat Nature
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
+#EXTINF:-1 ,Investigation Discovery
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd
+#EXTINF:-1 ,Ocean TV
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
+#EXTINF:-1 ,Охота и Рыбалка
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd
+#EXTINF:-1 ,Дикий
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
+#EXTINF:-1 ,Загородная жизнь
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd
+#EXTINF:-1 ,Бобёр
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/Bobyor_TV_SD.ism_xxxz/playlist.mpd
+#EXTINF:-1 ,Авто Плюс
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/Avto_Plus_SD.ism/playlist.mpd
+#EXTINF:-1 ,Авто 24
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/Avto_24_SD.ism/playlist.mpd
+#EXTINF:-1 ,Телекафе
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/TeleKafe_SD.ism/playlist.mpd
+#EXTINF:-1 ,Galaxy TV
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/Nano_TV_SD.ism/playlist.mpd
+#EXTINF:-1 ,Кухня ТВ
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/Kuxnya_TV_SD.ism/playlist.mpd
+#EXTINF:-1 ,Fashion TV HD
+#EXTGRP:Познавательные
+http://mfe.cliptv.az/dash/Fashion_TV_HD.ism/playlist.mpd
+#EXTINF:-1 ,Матч! HD
+#EXTGRP:Спортивные
+http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
+#EXTINF:-1 ,Матч! Премьер HD
+#EXTGRP:Спортивные
+http://mfe.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
+#EXTINF:-1 ,Матч! Игра HD
+#EXTGRP:Спортивные
+http://mfe.cliptv.az/dash/Match_Igra_HD.ism/playlist.mpd
+#EXTINF:-1 ,Матч! Арена HD
+#EXTGRP:Спортивные
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
+#EXTINF:-1 ,Матч! Футбол 1 HD
+#EXTGRP:Спортивные
+http://mfe.cliptv.az/dash/Match_Football_1_HD_kjt.ism/playlist.mpd
+#EXTINF:-1 ,Матч! Футбол 2 HD
+#EXTGRP:Спортивные
+http://mfe.cliptv.az/dash/Match_Football_2_HD_k2jt.ism/playlist.mpd
+#EXTINF:-1 ,Матч! Футбол 3 HD
+#EXTGRP:Спортивные
+http://mfe.cliptv.az/dash/Match_Football_3_HD_k3jt.ism/playlist.mpd
+#EXTINF:-1 ,Матч! Страна
+#EXTGRP:Спортивные
+http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
+#EXTINF:-1 ,Матч! Боец
+#EXTGRP:Спортивные
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
+#EXTINF:-1 ,КХЛ
+#EXTGRP:Спортивные
+http://mfe.cliptv.az/dash/KHL_TV_SD.ism/playlist.mpd
+#EXTINF:-1 ,Eurosport 1
+#EXTGRP:Спортивные
+http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd
+#EXTINF:-1 ,Eurosport 2
+#EXTGRP:Спортивные
+http://mfe.cliptv.az/dash/Eurosport2_SD.ism/playlist.mpd
+#EXTINF:-1 ,Viasat Sport
+#EXTGRP:Спортивные
+http://mfe.cliptv.az/dash/Viasat_Sport_SD.ism/playlist.mpd
+#EXTINF:-1 ,FightBox
+#EXTGRP:Спортивные
+http://mfe.cliptv.az/dash/Fightbox_SD.ism/playlist.mpd
+#EXTINF:-1 ,CBC Sport HD
+#EXTGRP:Спортивные
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
+#EXTINF:-1 ,Муз ТВ
+#EXTGRP:Музыкальные
+http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd
+#EXTINF:-1 ,Жара
+#EXTGRP:Музыкальные
+http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
+#EXTINF:-1 ,RU.TV
+#EXTGRP:Музыкальные
+http://mfe.cliptv.az/dash/RU_TV_SD.ism/playlist.mpd
+#EXTINF:-1 ,Europa Plus TV
+#EXTGRP:Музыкальные
+http://mfe.cliptv.az/dash/Evropa_Plus_TV_SD.ism/playlist.mpd
+#EXTINF:-1 ,MTV Russia
+#EXTGRP:Музыкальные
+http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd
+#EXTINF:-1 ,MTV Hits
+#EXTGRP:Музыкальные
+http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
+#EXTINF:-1 ,MTV Dance
+#EXTGRP:Музыкальные
+http://mfe.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd
+#EXTINF:-1 ,MTV 80s
+#EXTGRP:Музыкальные
+http://mfe.cliptv.az/dash/VH1_Classic_SD.ism/playlist.mpd
+#EXTINF:-1 ,MTV Live HD
+#EXTGRP:Музыкальные
+http://mfe.cliptv.az/dash/MTV_Live_HD.ism/playlist.mpd
+#EXTINF:-1 ,BRIDGE TV
+#EXTGRP:Музыкальные
+http://mfe.cliptv.az/dash/Bridge_TV_SD.ism/playlist.mpd
+#EXTINF:-1 ,BRIDGE TV Dance
+#EXTGRP:Музыкальные
+http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd
+#EXTINF:-1 ,VH1
+#EXTGRP:Музыкальные
+http://mfe.cliptv.az/dash/VH1_EUROPE_SD.ism/playlist.mpd
+#EXTINF:-1 ,MCM TOP
+#EXTGRP:Музыкальные
+http://mfe.cliptv.az/dash/MCM_TOP_SD.ism/playlist.mpd
+#EXTINF:-1 ,iConcerts HD
+#EXTGRP:Музыкальные
+http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd
+#EXTINF:-1 ,Шансон ТВ
+#EXTGRP:Музыкальные
+http://mfe.cliptv.az/dash/Shanson_SD.ism/playlist.mpd
+#EXTINF:-1 ,2x2
+#EXTGRP:Детские
+http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
+#EXTINF:-1 ,Disney
+#EXTGRP:Детские
+http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd
+#EXTINF:-1 ,Мульт
+#EXTGRP:Детские
+http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd
+#EXTINF:-1 ,Карусель
+#EXTGRP:Детские
+http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd
+#EXTINF:-1 ,Мультимузыка
+#EXTGRP:Детские
+http://mfe.cliptv.az/dash/Multimaniya_SD.ism/playlist.mpd
+#EXTINF:-1 ,Детский Мир
+#EXTGRP:Детские
+http://mfe.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
+#EXTINF:-1 ,Мама
+#EXTGRP:Детские
+http://mfe.cliptv.az/dash/Mama_SD_542.ism/playlist.mpd
+#EXTINF:-1 ,Da Vinci Learning
+#EXTGRP:Детские
+http://mfe.cliptv.az/dash/DaVinci_Learning_SD.ism/playlist.mpd
+#EXTINF:-1 ,Nickelodeon
+#EXTGRP:Детские
+http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd
+#EXTINF:-1 ,Nick Jr
+#EXTGRP:Детские
+http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
+#EXTINF:-1 ,Cartoon Network
+#EXTGRP:Детские
+http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd
+#EXTINF:-1 ,Nicktoons
+#EXTGRP:Детские
+http://mfe.cliptv.az/dash/Spike_SD.ism_xxxz/playlist.mpd
+#EXTINF:-1 ,Tiji
+#EXTGRP:Детские
+http://mfe.cliptv.az/dash/Tiji_SD.ism/playlist.mpd
+#EXTINF:-1 ,Gulli
+#EXTGRP:Детские
+http://mfe.cliptv.az/dash/Gulli_Girl_SD.ism/playlist.mpd
+#EXTINF:-1 ,Ani
+#EXTGRP:Детские
+http://mfe.cliptv.az/dash/ANITV_SD.ism/playlist.mpd
+
