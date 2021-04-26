@@ -305,51 +305,6 @@ http://mfe.cliptv.az/dash/Kuxnya_TV_SD.ism/playlist.mpd
 #EXTINF:-1 ,Fashion TV HD
 #EXTGRP:Познавательные
 http://mfe.cliptv.az/dash/Fashion_TV_HD.ism/playlist.mpd
-#EXTINF:-1 ,Матч! HD
-#EXTGRP:Спортивные
-http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
-#EXTINF:-1 ,Матч! Премьер HD
-#EXTGRP:Спортивные
-http://mfe.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
-#EXTINF:-1 ,Матч! Игра HD
-#EXTGRP:Спортивные
-http://mfe.cliptv.az/dash/Match_Igra_HD.ism/playlist.mpd
-#EXTINF:-1 ,Матч! Арена HD
-#EXTGRP:Спортивные
-http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
-#EXTINF:-1 ,Матч! Футбол 1 HD
-#EXTGRP:Спортивные
-http://mfe.cliptv.az/dash/Match_Football_1_HD_kjt.ism/playlist.mpd
-#EXTINF:-1 ,Матч! Футбол 2 HD
-#EXTGRP:Спортивные
-http://mfe.cliptv.az/dash/Match_Football_2_HD_k2jt.ism/playlist.mpd
-#EXTINF:-1 ,Матч! Футбол 3 HD
-#EXTGRP:Спортивные
-http://mfe.cliptv.az/dash/Match_Football_3_HD_k3jt.ism/playlist.mpd
-#EXTINF:-1 ,Матч! Страна
-#EXTGRP:Спортивные
-http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
-#EXTINF:-1 ,Матч! Боец
-#EXTGRP:Спортивные
-http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
-#EXTINF:-1 ,КХЛ
-#EXTGRP:Спортивные
-http://mfe.cliptv.az/dash/KHL_TV_SD.ism/playlist.mpd
-#EXTINF:-1 ,Eurosport 1
-#EXTGRP:Спортивные
-http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd
-#EXTINF:-1 ,Eurosport 2
-#EXTGRP:Спортивные
-http://mfe.cliptv.az/dash/Eurosport2_SD.ism/playlist.mpd
-#EXTINF:-1 ,Viasat Sport
-#EXTGRP:Спортивные
-http://mfe.cliptv.az/dash/Viasat_Sport_SD.ism/playlist.mpd
-#EXTINF:-1 ,FightBox
-#EXTGRP:Спортивные
-http://mfe.cliptv.az/dash/Fightbox_SD.ism/playlist.mpd
-#EXTINF:-1 ,CBC Sport HD
-#EXTGRP:Спортивные
-http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
 
 #EXTINF:-1 ,2x2
 #EXTGRP:Детские
