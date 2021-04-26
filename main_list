@@ -155,7 +155,7 @@ http://193.33.240.8:80/sts_kids/index.m3u8
 #EXTINF:-1 tvg-id="disney-pl4" group-title="Детские",Канал Disney +4
 http://hlstv.brn.211.ru/239.211.211.24/stream.m3u8
 
-////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #EXTM3U
 #EXTINF:-1 ,Первый Канал HD
 #EXTGRP:Федеральные
@@ -235,114 +235,7 @@ http://mfe.cliptv.az/dash/Rossiya_Kulturra_SD.ism/playlist.mpd
 #EXTINF:-1 ,Fox
 #EXTGRP:Фильмовые
 http://mfe.cliptv.az/dash/Fox_Russia_SD.ism/playlist.mpd
-#EXTINF:-1 ,Paramount Comedy
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd
-#EXTINF:-1 ,Sony Sci-Fi
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
-#EXTINF:-1 ,Sony Turbo
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd
-#EXTINF:-1 ,Amedia 1
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/A1_SD.ism/playlist.mpd
-#EXTINF:-1 ,Amedia 2
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Amedia_2_SD.ism/playlist.mpd
-#EXTINF:-1 ,Amedia Hit
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/A_Media_Hit_SD.ism/playlist.mpd
-#EXTINF:-1 ,Amedia Premium HD
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Amedia_Premium_HD.ism/playlist.mpd
-#EXTINF:-1 ,VIP Premiere HD
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/VIP_Premium_HD.ism/playlist.mpd
-#EXTINF:-1 ,VIP Megahit HD
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/VIP_Megahit_HD.ism/playlist.mpd
-#EXTINF:-1 ,VIP Comedy HD
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/VIP_Comedy_HD.ism/playlist.mpd
-#EXTINF:-1 ,TV1000
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd
-#EXTINF:-1 ,TV1000 Action
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/TV1000_Action_SD.ism/playlist.mpd
-#EXTINF:-1 ,TV1000 Русское кино
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/TV1000_Russkoe_Kino_SD.ism/playlist.mpd
-#EXTINF:-1 ,Кинопремьера HD
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd
-#EXTINF:-1 ,Кинохит
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd
-#EXTINF:-1 ,Киномикс
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd
-#EXTINF:-1 ,Киносвидание
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Kinosvidaniye_SD.ism/playlist.mpd
-#EXTINF:-1 ,Киносемья
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Kinosemya_SD.ism/playlist.mpd
-#EXTINF:-1 ,Кинокомедия
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd
-#EXTINF:-1 ,Мужское кино
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Mujskoye_Kino_SD.ism/playlist.mpd
-#EXTINF:-1 ,Киносерия
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Kinoseriya_SD.ism/playlist.mpd
-#EXTINF:-1 ,Наше Новое Кино
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Nashe_Novoe_Kino_SD.ism/playlist.mpd
-#EXTINF:-1 ,Родное Кино
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Rodnoe_Kino_SD.ism/playlist.mpd
-#EXTINF:-1 ,Дом Кино Премиум HD
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd
-#EXTINF:-1 ,Кино ТВ HD
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
-#EXTINF:-1 ,Hollywood HD
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/MGM_HD.ism/playlist.mpd
-#EXTINF:-1 ,Hollywood
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
-#EXTINF:-1 ,НСТ
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
-#EXTINF:-1 ,Cinema
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd
-#EXTINF:-1 ,Paramount Channel
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd
-#EXTINF:-1 ,TV XXI
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/TV_XXI_SD.ism/playlist.mpd
-#EXTINF:-1 ,Еврокино
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Evrokino_SD.ism/playlist.mpd
-#EXTINF:-1 ,Русский Роман
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd
-#EXTINF:-1 ,Русский Детектив
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
-#EXTINF:-1 ,Мир Сериала
-#EXTGRP:Фильмовые
-http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
-#EXTINF:-1 ,Индийское Кино
-#EXTGRP:Фильмовые
-http://mfe.cliptv.az/dash/Indiyskoe_Kino_SD.ism/playlist.mpd
+
 #EXTINF:-1 ,National Geographic HD
 #EXTGRP:Познавательные
 http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
@@ -457,51 +350,7 @@ http://mfe.cliptv.az/dash/Fightbox_SD.ism/playlist.mpd
 #EXTINF:-1 ,CBC Sport HD
 #EXTGRP:Спортивные
 http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
-#EXTINF:-1 ,Муз ТВ
-#EXTGRP:Музыкальные
-http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd
-#EXTINF:-1 ,Жара
-#EXTGRP:Музыкальные
-http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
-#EXTINF:-1 ,RU.TV
-#EXTGRP:Музыкальные
-http://mfe.cliptv.az/dash/RU_TV_SD.ism/playlist.mpd
-#EXTINF:-1 ,Europa Plus TV
-#EXTGRP:Музыкальные
-http://mfe.cliptv.az/dash/Evropa_Plus_TV_SD.ism/playlist.mpd
-#EXTINF:-1 ,MTV Russia
-#EXTGRP:Музыкальные
-http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd
-#EXTINF:-1 ,MTV Hits
-#EXTGRP:Музыкальные
-http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
-#EXTINF:-1 ,MTV Dance
-#EXTGRP:Музыкальные
-http://mfe.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd
-#EXTINF:-1 ,MTV 80s
-#EXTGRP:Музыкальные
-http://mfe.cliptv.az/dash/VH1_Classic_SD.ism/playlist.mpd
-#EXTINF:-1 ,MTV Live HD
-#EXTGRP:Музыкальные
-http://mfe.cliptv.az/dash/MTV_Live_HD.ism/playlist.mpd
-#EXTINF:-1 ,BRIDGE TV
-#EXTGRP:Музыкальные
-http://mfe.cliptv.az/dash/Bridge_TV_SD.ism/playlist.mpd
-#EXTINF:-1 ,BRIDGE TV Dance
-#EXTGRP:Музыкальные
-http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd
-#EXTINF:-1 ,VH1
-#EXTGRP:Музыкальные
-http://mfe.cliptv.az/dash/VH1_EUROPE_SD.ism/playlist.mpd
-#EXTINF:-1 ,MCM TOP
-#EXTGRP:Музыкальные
-http://mfe.cliptv.az/dash/MCM_TOP_SD.ism/playlist.mpd
-#EXTINF:-1 ,iConcerts HD
-#EXTGRP:Музыкальные
-http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd
-#EXTINF:-1 ,Шансон ТВ
-#EXTGRP:Музыкальные
-http://mfe.cliptv.az/dash/Shanson_SD.ism/playlist.mpd
+
 #EXTINF:-1 ,2x2
 #EXTGRP:Детские
 http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
