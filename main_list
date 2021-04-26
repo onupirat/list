@@ -57,8 +57,6 @@ https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
 http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 #EXTINF:-1,Первый
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",РЕН ТВ
-http://mhd.iptv2022.com/p/GuP-PQltSp9h5nXEiANUNA,1619182241/streaming/rentvott/324/variable.m3u8
 #EXTINF:-1,НТВ
 http://185.78.112.46:8077/ntv_fed/index.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-212" group-title="Кино/Каналы",НТВ Хит
@@ -127,8 +125,7 @@ http://mhd.iptv2022.com/p/Wz7EdeGhB36H344hNSMAmA,1619182241/streaming/2x2/324/1/
 http://195.49.206.244:90/Galaxy/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-49" group-title="Познавательные",Russian Travel Guide
 http://94.230.240.12:8080/rtg/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Zоопарк
-http://195.49.206.244:90/Zoopark/index.m3u8
+
 http://195.49.206.244:90/domashnie_zhivotnye/index.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-311" tvg-logo="https://iptvx.one/icn/moya-planeta.png" group-title="Познавательные",Моя Планета
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
