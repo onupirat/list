@@ -67,8 +67,6 @@ http://radio-live-mg.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1,Россия РТР
 http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Новости",Евроновости
-http://mhd.iptv2022.com/p/PdgMDSbNbDH7Qu30FssVew,1619182241/streaming/euronews/324/variable.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/icn/eda-hd.png" group-title="Познавательные",Еда HD
 http://94.230.240.12:8080/edahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-260" tvg-logo="https://iptvx.one/icn/zdorovoe-tv.png" group-title="Познавательные",Здоровое ТВ
@@ -77,14 +75,6 @@ http://37.17.12.119:8909/play/a00c
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,СТС International
-https://sc.id-tv.kz/STS_38_39.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС
-http://mhd.iptv2022.com/p/qahJPXo3ubXU6unw7B1Rjg,1619182241/streaming/stsott/324/variable.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ
-http://mhd.iptv2022.com/p/9JqykNWQNgU0PZvS_w59Yg,1619182241/streaming/tntott/324/variable.m3u8
-#EXTINF:-1,ТНТ Int
-https://edge04.beetv.kz/btv/SWM/TNT/TNT_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-336" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a00000160931f198cccad25e259a608ae77/orig" group-title="Развлекательные",ТНТ4 HD
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-1,ТНТ 4 Int
@@ -95,8 +85,7 @@ http://mhd.iptv2022.com/p/9JqykNWQNgU0PZvS_w59Yg,1619182241/streaming/tntott/324
 http://212.19.5.125:11011/KVN_TV
 #EXTINF:-1 tvg-id="hlsproxy-680" group-title="Развлекательные",Перец
 http://93.189.224.118:9030/peretz?utcstart=943082199974&version=2
-#EXTINF:-1 group-title="Развлекательные",Пятница!
-http://mhd.iptv2022.com/p/lTzqyQ2_mfH6RM_SEvuB3w,1619182241/streaming/pyatnicaott/324/variable.m3u8
+
 #EXTINF:-1,RT Документальный
 https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1,Discovery
@@ -111,22 +100,16 @@ http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
 http://51.195.44.53:8081/tv/animal-planet/chunks.m3u8
 #EXTINF:-1,Русский Роман
 http://147.135.210.90:8081/tv/rus-roman-6r/playlist.m3u8
-#EXTINF:-1,HDL
-https://sc.id-tv.kz/hdl_38_39.m3u8
-#EXTINF:-1 tvg-id="hlsproxy-166" tvg-logo="http://epg.it999.ru/img/2345.png" group-title="Познавательные",TLC
-http://edge04.beetv.kz/btv/SWM/TLC/TLC_576p_2000kbps.m3u8
-#EXTINF:-1,История
-http://88.218.240.11:80/istoriya/video.m3u8
+
+
 #EXTINF:-1,TV XXI
 http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",2x2
-http://mhd.iptv2022.com/p/Wz7EdeGhB36H344hNSMAmA,1619182241/streaming/2x2/324/1/index.m3u8
-#EXTINF:-1 tvg-id="hlsproxy-87" group-title="Познавательные",Galaxy-TV
-http://195.49.206.244:90/Galaxy/tracks-v1a1/index.m3u8
+
+
 #EXTINF:-1 tvg-id="hlsproxy-49" group-title="Познавательные",Russian Travel Guide
 http://94.230.240.12:8080/rtg/tracks-v1a1/index.m3u8
 
-http://195.49.206.244:90/domashnie_zhivotnye/index.m3u8
+
 #EXTINF:-1 tvg-id="hlsproxy-311" tvg-logo="https://iptvx.one/icn/moya-planeta.png" group-title="Познавательные",Моя Планета
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-22" tvg-logo="https://tvoetv.online/img/ch_icons/tv_1000_world_kino.jpg" group-title="Кино/Каналы",TV 1000 World Kino
@@ -167,8 +150,7 @@ http://195.154.242.229:3000/telegram/premiere_group_chat/19551
 http://195.154.242.229:3000/telegram/premiere_group_chat/64127
 #EXTINF:-1 tvg-id="ussr-premieregroup" group-title="Premiere/Group",USSR
 http://195.154.242.229:3000/telegram/premiere_group_chat/47342
-#EXTINF:-1 tvg-id="hlsproxy-72" tvg-logo="https://iptvx.one/icn/eurosport1.png" group-title="Спорт/Каналы",Eurosport 1
-http://edge04.beetv.kz/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
+
 #EXTINF:-1 group-title="Детские",CTC Kids
 http://193.33.240.8:80/sts_kids/index.m3u8
 #EXTINF:-1 tvg-id="disney-pl4" group-title="Детские",Канал Disney +4
