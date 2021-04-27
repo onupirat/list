@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg"
-#EXTINF:-1,TV8 Moldova
-#EXTGRP:Moldova
-http://212.0.215.115/TV8HD/playlist.m3u8
+#EXTINF:-1,MD: ProTV Chisinau
+http://hls.protv.md/hls/protv.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Jurnalborneotv_logo.png" tvg-id="jurnaltv" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/57/f6/84/57f684e7-799b-1f9f-d957-f981b72564ba/source/512x512bb.jpg" channelId="1339" group-title="Молдова",Jurnal TV
 #EXTGRP:Moldova
 http://212.0.215.115/JurnalTVHD/mpegts
@@ -18,34 +17,19 @@ http://212.0.215.115/PrimeHD/mpegts
 https://video.a-tv.md/hls/tv.m3u8
 #EXTINF:-1,Publika TV
 #EXTGRP:Moldova
-http://212.0.215.115/PublikaHD/mpegts
-#EXTINF:-1,Publika TV
-#EXTGRP:Moldova
 https://livebeta.publika.md/LIVE/P/1500.m3u8
 #EXTINF:-1,НТВ Moldova
 #EXTGRP:Moldova
 http://93.115.137.166/hls/ntvm.m3u8
-#EXTINF:-1,TVC21
-#EXTGRP:Moldova
-http://212.0.215.115/TVC21/mpegts
-#EXTINF:-1,Canal 2
-#EXTGRP:Moldova
-http://212.0.215.115/Canal2HD/mpegts
 #EXTINF:-1,Canal 3
 #EXTGRP:Moldova
 http://91.230.214.75/LIVE/3/2000.m3u8
-#EXTINF:-1,N4
-#EXTGRP:Moldova
-http://212.0.215.115/N4/mpegts
 #EXTINF:-1,RTR Moldova
 #EXTGRP:Moldova
 http://212.0.215.106/RTR/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="MD" tvg-url="",Bălţi TV
 #EXTGRP:Moldova
 http://77.89.199.174:8000/play/1024/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ZiwyCkA.png" tvg-country="MD" tvg-url="",Canal Regional
-#EXTGRP:Moldova
-https://canalregional.md/tv/live/canalregional.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="",Moldova 2
 #EXTGRP:Moldova
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
