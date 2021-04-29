@@ -1,4 +1,10 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg"
+#EXTINF:-1, PRO TV
+#EXTGRP:Moldova
+http://185.244.216.155:23073/play/_PROTV_Chisinau_/index.m3u8?token=soiwoiw154826jfgtdrabjoi154http://185.244.216.155:23073/play/_PROTV_Chisinau_/index.m3u8?token=soiwoiw154826jfgtdrabjoi154
+#EXTINF:-1, TV8
+#EXTGRP:Moldova
+http://starnet-md.TV8_H264&tshift=true
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Jurnalborneotv_logo.png" tvg-id="jurnaltv" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/57/f6/84/57f684e7-799b-1f9f-d957-f981b72564ba/source/512x512bb.jpg" channelId="1339" group-title="Молдова",Jurnal TV
 #EXTGRP:Moldova
 http://212.0.215.115/JurnalTVHD/mpegts
