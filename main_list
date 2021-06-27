@@ -246,10 +246,5 @@ http://mfe.cliptv.az/dash/ANITV_SD.ism/playlist.mpd
 https://edge04.beetv.kz/btv/SWM/A1/A1_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-id="A21" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/69315/2a000001600802ee2c5a80444fd2825d5b6f/orig" group-title="Кино/Каналы",A2 HD
 https://edge04.beetv.kz/btv/SWM/A2/A2_576p_2000kbps.m3u8
-#EXTINF:-1 logo="https://trinity-tv.net/storage/channels/dark_theme_394.png" tvg-id="food-network" tvg-logo="http://only4.tv/ch/416.png" channelId="1244" group-title="Женские",Food Network Россия
-http://tsn3.auratv.fun/channel/386db57c/index.m3u8?q=80d6931411192c1a6ad7db997a7b7233
-#EXTINF:-1 logo="http://tv-fresh.org/uploads/posts/2020-04/1587929405_edatv.png" tvg-id="eda" tvg-logo="https://tv.nalench.com/uploads/screenshots/eda_tv.jpg" channelId="598" group-title="Женские",Еда
-http://tsn3.auratv.fun/channel/4b030174/index.m3u8?q=80d6931411192c1a6ad7db997a7b7233
-#EXTINF:-1 logo="http://teledays.net/images/eda-premium.png" tvg-id="eda-hd" tvg-logo="https://telesputnik.ru/upload/iblock/e4b/eda_premium_b.png" channelId="232" group-title="Женские",Еда Премиум HD
-http://tsn3.auratv.fun/channel/n1f17302b/index.m3u8?q=80d6931411192c1a6ad7db997a7b7233
+
 
